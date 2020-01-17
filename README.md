@@ -1,0 +1,1 @@
+# digest_of_the_pragmatic_programmers
