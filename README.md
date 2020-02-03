@@ -1,6 +1,6 @@
 digest_of_the_pragmatic_programmers
 
-# 情熱プログラマー まとめ
+# 情熱プログラマー まとめ　（途中）
 
 
 ## 1章 市場を選ぶ
